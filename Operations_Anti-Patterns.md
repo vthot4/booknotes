@@ -1,10 +1,10 @@
 # Operations Anti-Patterns, DevOps Solutions
 
-Title: Operations Anti-Patterns, DevOps Solutions
-Author: Jeffery D. Smith
-Year: 2020
-ISBN: 9781617296987
-Publisher : Manning Publications 
+- Title: Operations Anti-Patterns, DevOps Solutions
+- Author: Jeffery D. Smith
+- Year: 2020
+- ISBN: 9781617296987
+- Publisher : Manning Publications 
 
 ## Chapter 1: DevOps ingredients.
 
